@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpInjector", "SharpInjector\SharpInjector.csproj", "{EA5E8921-7DBB-4609-A237-D2B07D0E8349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA5E8921-7DBB-4609-A237-D2B07D0E8349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5E8921-7DBB-4609-A237-D2B07D0E8349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5E8921-7DBB-4609-A237-D2B07D0E8349}.Debug|x86.ActiveCfg = Release|x86
+		{EA5E8921-7DBB-4609-A237-D2B07D0E8349}.Debug|x86.Build.0 = Release|x86
+		{EA5E8921-7DBB-4609-A237-D2B07D0E8349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5E8921-7DBB-4609-A237-D2B07D0E8349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA5E8921-7DBB-4609-A237-D2B07D0E8349}.Release|x86.ActiveCfg = Release|x86
+		{EA5E8921-7DBB-4609-A237-D2B07D0E8349}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19B03047-C111-4B4E-88BD-1BE946CDBD84}
+	EndGlobalSection
+EndGlobal

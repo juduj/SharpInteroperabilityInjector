@@ -1,0 +1,10 @@
+C:\Users\forwa\source\repos\SharpInjector\SharpInjector\bin\x86\Release\SharpInjector.exe.config
+C:\Users\forwa\source\repos\SharpInjector\SharpInjector\bin\x86\Release\SharpInjector.exe
+C:\Users\forwa\source\repos\SharpInjector\SharpInjector\bin\x86\Release\SharpInjector.pdb
+C:\Users\forwa\source\repos\SharpInjector\SharpInjector\obj\x86\Release\SharpInjector.csproj.AssemblyReference.cache
+C:\Users\forwa\source\repos\SharpInjector\SharpInjector\obj\x86\Release\SharpInjector.Form1.resources
+C:\Users\forwa\source\repos\SharpInjector\SharpInjector\obj\x86\Release\SharpInjector.Properties.Resources.resources
+C:\Users\forwa\source\repos\SharpInjector\SharpInjector\obj\x86\Release\SharpInjector.csproj.GenerateResource.cache
+C:\Users\forwa\source\repos\SharpInjector\SharpInjector\obj\x86\Release\SharpInjector.csproj.CoreCompileInputs.cache
+C:\Users\forwa\source\repos\SharpInjector\SharpInjector\obj\x86\Release\SharpInjector.exe
+C:\Users\forwa\source\repos\SharpInjector\SharpInjector\obj\x86\Release\SharpInjector.pdb
